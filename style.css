@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#photo-template {
+    width: 50%;
+    height: 200px;
+    float: left;
+}
